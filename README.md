@@ -13,13 +13,13 @@ Simply add the resource pack to the resource pack folder in your directory of ch
 
 ## 🔰 Dark Mode Images:
 #### NPC Gui
-<img src="images/dark-npc.png" width="237" height="130"/> <img src="images/light-npc.png" width="237" height="130"/>
+<img src="images/dark-npc.png" width="350" height="200"/> <img src="images/light-npc.png" width="350" height="200"/>
 
 #### Clone Gui
-<img src="images/dark-clone.png" width="237" height="130"/> <img src="images/light-clone.png" width="237" height="130"/>
+<img src="images/dark-clone.png" width="350" height="200"/> <img src="images/light-clone.png" width="350" height="200"/>
 
 #### Script
-<img src="images/dark-script.png" width="237" height="130"/> <img src="images/light-script.png" width="237" height="130"/>
+<img src="images/dark-script.png" width="350" height="200"/> <img src="images/light-script.png" width="350" height="200"/>
 
 
 ## 🔗 Want to check out my other projects?
